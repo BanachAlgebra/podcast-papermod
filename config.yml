@@ -1,5 +1,5 @@
 baseURL: "https://podcast-papermod.pages.dev/"
-title: PaperMod
+title: Podcast
 paginate: 5
 theme: hugo-PaperMod
 
