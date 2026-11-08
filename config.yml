@@ -62,7 +62,7 @@ params:
   profileMode:
     enabled: true
     title: "Hello World"
-    subtitle: "Welcome to my podcast website. Explore our episodes and learn more about the show."
+    subtitle: "Welcome to Podcast. Explore the episodes and learn more."
     buttons:
       - name: Episode Archive
         url: "/episodes/"
